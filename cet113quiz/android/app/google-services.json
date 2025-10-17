@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522175861215",
+    "project_id": "fintest-113",
+    "storage_bucket": "fintest-113.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522175861215:android:04e9d1977aa5593311746a",
+        "android_client_info": {
+          "package_name": "com.example.cet113quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATV67jNDFno1ie1hMKOOhy5SoU7FF6xQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
